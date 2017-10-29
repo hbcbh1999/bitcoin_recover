@@ -25,10 +25,6 @@ Version 3.0
 - Can scan large image files by reading in incremental chunks.
 - Sequential chunks are checked plus the tail of the previous chunk, to 
   check for keys that may span across 2 chunk boundaries.
-<<<<<<< HEAD
 - Fast scan for failed drives with old bitcoin wallet files [1] 
-=======
-- Fast scan for failed drives with old bitcoin wallet files 
 
->>>>>>> dc01b09... Update README.md
 [1] https://bitcointalk.org/index.php?topic=25091.55;wap

@@ -1,4 +1,4 @@
-# bitcoin_recovery
+# bitcoin_recover
 
 ## Purpose
 
